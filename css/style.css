@@ -57,12 +57,12 @@ figcaption {
     font-style: italic;
 }
 
-ul, li {
+ul{
     list-style: none;
     padding: 0;
 }
 
-a {
+a:link {
     color: #1a1a1a;
 }
 
